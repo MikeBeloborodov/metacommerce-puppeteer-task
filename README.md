@@ -10,7 +10,7 @@
 ### Запуск
 
 ```
-git pull https://github.com/MikeBeloborodov/metacommerce-puppeteer-task.git
+git clone https://github.com/MikeBeloborodov/metacommerce-puppeteer-task.git
 cd metacommerce-puppeteer-task
 npm i
 npm run start
