@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer_test_task",
+  "version": "1.0.0",
+  "description": "Тестовое здадание для Metacommerce.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "https://github.com/MikeBeloborodov",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^5.0.1",
+    "puppeteer": "^21.5.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4",
+    "typescript": "^5.3.2"
+  }
+}
